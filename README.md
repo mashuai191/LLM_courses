@@ -9,6 +9,6 @@ These resources are only for educational use.
 
 ## Coursera - Generative AI with Large Language Models
 
-## Courera - Finetuning Large Language Models
+## Coursera - Finetuning Large Language Models
 
 ## Udemy - Generative AI for Beginners
