@@ -9,6 +9,8 @@ These resources are only for educational use.
 
 ## Coursera - Generative AI with Large Language Models
 
+## Coursera - Functions, Tools and Agents with LangChain
+
 ## Coursera - Finetuning Large Language Models
 
 ## Udemy - Generative AI for Beginners
