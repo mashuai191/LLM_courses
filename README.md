@@ -11,7 +11,7 @@ These resources are only for educational use.
 
 ## Coursera - Functions, Tools and Agents with LangChain
 
-[## Coursera - AI Agents in LangGraph](https://github.com/mashuai191/LLM_courses/tree/master/Coursera%20-%20AI%20Agents%20in%20LangGraph)
+## [Coursera - AI Agents in LangGraph](https://github.com/mashuai191/LLM_courses/tree/master/Coursera%20-%20AI%20Agents%20in%20LangGraph)
 
 ## Coursera - Finetuning Large Language Models
 
