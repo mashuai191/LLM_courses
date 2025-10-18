@@ -18,7 +18,7 @@ These resources are only for educational use.
 
 ### [Coursera - Functions, Tools and Agents with LangChain](https://github.com/mashuai191/LLM_courses/tree/master/Coursera%20-%20Functions%2C%20Tools%20and%20Agents%20with%20LangChain)
 ### [Coursera - AI Agents in LangGraph](https://github.com/mashuai191/LLM_courses/tree/master/Coursera%20-%20AI%20Agents%20in%20LangGraph)
-### DeepLeanring.ai - Agentic AI
+### [DeepLeanring.ai - Agentic AI](https://github.com/mashuai191/LLM_courses/tree/master/DeepLeanring.ai%20-%20Agentic%20AI)
 
 ## Finetuning
 
